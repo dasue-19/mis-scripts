@@ -230,6 +230,20 @@ const players = {
         clubId: 6576,
         nationalityId: 6710,
         photo: "https://images.fotmob.com/image_resources/playerimages/772320.png"
+    },
+    769583: {
+        id: 769593,
+        name: "Rodriguez",
+        fullName: "Carlos Rodriguez",
+        position: "Mediocentro",
+        goals: 3,
+        assists: 0,
+        age: 28,
+        marketValue: "2.5 MDE",
+        rating: "8.4",
+        clubId: 6578,
+        nationalityId: 6710,
+        photo: "https://images.fotmob.com/image_resources/playerimages/769593.png"
     }
 };
 
@@ -252,6 +266,7 @@ function getPlayerFullData(playerId) {
     };
 
 }
+
 
 
 
