@@ -231,7 +231,7 @@ const players = {
         nationalityId: 6710,
         photo: "https://images.fotmob.com/image_resources/playerimages/772320.png"
     },
-    769583: {
+    769593: {
         id: 769593,
         name: "Rodriguez",
         fullName: "Carlos Rodriguez",
@@ -266,6 +266,7 @@ function getPlayerFullData(playerId) {
     };
 
 }
+
 
 
 
