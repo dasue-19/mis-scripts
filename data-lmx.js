@@ -244,6 +244,20 @@ const players = {
         clubId: 6578,
         nationalityId: 6710,
         photo: "https://images.fotmob.com/image_resources/playerimages/769593.png"
+    },
+    70865: {
+        id: 70865,
+        name: "Barrera",
+        fullName: "Pablo Barrera",
+        position: "Extremo Izquierdo",
+        goals: 6,
+        assists: 1,
+        age: 32,
+        marketValue: "2.2 MDE",
+        rating: "8.2",
+        clubId: 6578,
+        nationalityId: 6710,
+        photo: "https://images.fotmob.com/image_resources/playerimages/70865.png"
     }
 };
 
@@ -266,6 +280,7 @@ function getPlayerFullData(playerId) {
     };
 
 }
+
 
 
 
