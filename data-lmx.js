@@ -9,6 +9,11 @@ const clubs = {
         name: "San Luis",
         logo: "https://images.fotmob.com/image_resources/logo/teamlogo/6358.png"
     },
+    6359: {
+        id: 5359,
+        name: "La Galaxy",
+        logo: "https://images.fotmob.com/image_resources/logo/teamlogo/6359.png"
+    },
     6578: {
         id: 6578,
         name: "Cruz Azul",
@@ -219,3 +224,4 @@ function getPlayerFullData(playerId) {
     };
 
 }
+
