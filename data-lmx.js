@@ -216,6 +216,20 @@ const players = {
         clubId: 6577,
         nationalityId: 5877,
         photo: "https://images.fotmob.com/image_resources/playerimages/1348496.png"
+    },
+    215428: {
+        id: 772320,
+        name: "Sanchez",
+        fullName: "Erick Sanchez",
+        position: "Volante Ofensivo",
+        goals: 2,
+        assists: 0,
+        age: 25,
+        marketValue: "8.7 MDE",
+        rating: "8.8",
+        clubId: 6576,
+        nationalityId: 6710,
+        photo: "https://images.fotmob.com/image_resources/playerimages/772320.png"
     }
 };
 
@@ -238,5 +252,6 @@ function getPlayerFullData(playerId) {
     };
 
 }
+
 
 
