@@ -202,6 +202,20 @@ const players = {
         clubId: 6578,
         nationalityId: 6710,
         photo: "https://images.fotmob.com/image_resources/playerimages/215428.png"
+    },
+    1348496: {
+        id: 1348496,
+        name: "Gonzalez",
+        fullName: "Diego Gonzalez",
+        position: "Extremo Izquierdo",
+        goals: 2,
+        assists: 4,
+        age: 22,
+        marketValue: "1.5 MDE",
+        rating: "7.4",
+        clubId: 6577,
+        nationalityId: 5877,
+        photo: "https://images.fotmob.com/image_resources/playerimages/1348496.png"
     }
 };
 
@@ -224,4 +238,5 @@ function getPlayerFullData(playerId) {
     };
 
 }
+
 
