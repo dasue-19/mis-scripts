@@ -217,7 +217,7 @@ const players = {
         nationalityId: 5877,
         photo: "https://images.fotmob.com/image_resources/playerimages/1348496.png"
     },
-    215428: {
+    772320: {
         id: 772320,
         name: "Sanchez",
         fullName: "Erick Sanchez",
@@ -252,6 +252,7 @@ function getPlayerFullData(playerId) {
     };
 
 }
+
 
 
 
